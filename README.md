@@ -4,3 +4,5 @@
 
        
 Aluas do projeto c&amp;a fashion Devs
+
+Virginia Silva - C&A Fashion Devs
