@@ -80,22 +80,4 @@ Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as vers�
 
 ## ✒️ Autores
 
-* **Wallace Leonel** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/wallaceleonel)
-* **Wallace Leonel** - *Documentação* - [fulanodetal](https://github.com/wallaceleonel)
 
-[colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
-
-## 📄 Licença
-
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/wallaceleonel/fashionDevs/blob/main/LICENSE) para detalhes.
-
-## 🎁 Expressões de gratidão
-
-* Conte a outras pessoas sobre este projeto 📢
-* Convide alguém da equipe para uma cerveja 🍺 
-* Obrigado publicamente 🤓, mande um bjoo ❤️
-* etc.
-
-
----
-⌨️ com ❤️ por [ Wallace Leonleonel ]😊
