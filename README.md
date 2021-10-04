@@ -79,5 +79,20 @@ Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoS
 Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto). 
 
 ## ✒️ Autores
+<<<<<<< new-branch
+* **Wallace Leonel** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/wallaceleonel)
+* **Wallace Leonel** - *Documentação* - [fulanodetal](https://github.com/wallaceleonel)
+
+## 🎁 Expressões de gratidão
+
+* Conte a outras pessoas sobre este projeto 📢
+* Convide alguém da equipe para uma cerveja 🍺 
+* Obrigado publicamente 🤓, mande um bjoo ❤️
+
+
+
+
+⌨️ com ❤️ por [ Wallace Leonleonel ]😊
+
 
 
