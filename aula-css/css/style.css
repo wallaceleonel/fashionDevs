@@ -1,3 +1,55 @@
-.center-externo{
+.center-externo {
     text-align: center;
+}
+.container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: yellowgreen;
+    padding: 10px;
+}
+.grid-item {
+    background-color: teal;
+    border: solid black;
+    padding: 10px;
+    font-size: 30px ;
+    text-align: center;
+}
+.container-flex {
+    display: flex;
+    background-color: teal;
+    justify-content: center;
+}
+
+.container-flex >div {
+    background-color: yellowgreen;
+    margin: 10px;
+    padding: 20px;
+    font-size: 20px;
+}
+
+input[type=text],select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0px;
+    display: inline-block;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type=submit]:hover {
+    background-color: rgb(8, 232, 240);
+}
+input[type =submit] {
+    width: 100px;
+    background-color: aliceblue;
+    border-radius: 4px;
+    color:darkblue;
+    padding: 14px 20px;
+    border: none;
+    cursor: pointer;
+
+}
+label{
+text-align: left;
+font-size: 15px;
+font-style: italic;
 }
