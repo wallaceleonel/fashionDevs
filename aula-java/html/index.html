@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <script src="/js/index.js"></script>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> 
+        Javascipt
+    </title>
+    <script>
+       bodyElements = document.getElementsByName("body");
+       bodyElements.onload(window.alert("Alerta ")) 
+        function alertaClique() {
+            window.alert("alerta html usando function")
+        }
+    </script>
+</head>
+<body>
+    <main>
+        <button type="button"onclick="alert('clique no botaum')">alert</button>
+        <button type="button"onclick="alertaClique('clique no botaum')">alert interno</button>
+        <button type="button"onclick= "alertaExterno()">alertExterno</button>
+    </main>
+    
+</body>
+</html>
