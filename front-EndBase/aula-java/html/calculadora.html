@@ -11,41 +11,63 @@
 <h1>Calculadora</h1>
 <body>
     <div>
-            <input type="number" id="n1">
-            <input type="number" id="n2">
-            <input type="text" id="Somar" disabled> 
+            <input type="number"class ="form" id="n1">
+            <input type="number"class ="form" id="n2">
+            <input type="text" class ="form"id="Somar" disabled> 
             <button type="button" onclick="soma()">Somar</button>
+            <div class="error"></div>
+
     </div>
     <div>
        
-            <input type="number" id="n1S">
-            <input type="number" id="n2S">
-            <input type="text" id="Subt" disabled> 
+            <input type="number"class ="form" id="n1S">
+            <input type="number"class ="form" id="n2S">
+            <input type="text"class ="form" id="Subt" disabled> 
             <button type="button" onclick="subtracao()">Subtração</button>
+            <div class="error">
+                
+            </div>
     </div>
     
     <div>
-            <input type="number" id="n1D">
-            <input type="number" id="n2D">
-            <input type="text" id="Divs" disabled> 
+            <input type="number"class ="form" id="n1D">
+            <input type="number"class ="form" id="n2D">
+            <input type="text" class ="form"id="Divs" disabled> 
             <button type="button" onclick="divisao()">Divisão</button>   
+            <div class="error">
+                
+            </div>
     </div>
     <div>
         <input type="number" id="n1M">
-            <input type="number" id="n2M">
-            <input type="text" id="Multip" disabled> 
+            <input type="number"class ="form" id="n2M">
+            <input type="text" class ="form"id="Multip" disabled> 
             <button type="button" onclick="multi()">Multiplicação</button>
+            <div class="error">
+                
+            </div>
     </div>
     
     <div>
-        <input type="number" id="n1Med">
-        <input type="number" id="n2Med">
-        <input type="number" id="n3Med">
-        <input type="text" id="resultMed" disabled> 
-        <button type="button" onclick="media()">Multiplicação</button>
+        <input type="number" class ="form"id="n1Med">
+        <input type="number"class ="form" id="n2Med">
+        <input type="number"class ="form" id="n3Med">
+        <input type="text"class ="form" id="resultMed" disabled> 
+        <button type="button" onclick="media()">Media</button>
+        <div class="error">
+                
+        </div>
     </div>
     <div>
         <button type="button" onclick="limpar()">Limpar</button>
     </div>
+    <div id="loop">
+
+    </div>
+        <button type="button" onclick="exampleForLoop()"> ForLoop</button>
+        <button type="button" onclick="exampleWhile()"> While Loop</button>
+        <button type="button" onclick="exampleDowhile()"> Dowhile Loop</button>
+    
+
 </body>
 </html>
