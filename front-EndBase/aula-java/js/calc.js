@@ -4,7 +4,7 @@ function soma() {
     
     let = msgError = document.getElementsByClassName('error')
     //Validação negada XOR 
-    if(!valide(n1,n2)){
+    if(!valide(n1,n2)) {
     //Exibe erro 
     msgError = document.getElementsByClassName('error')
     msgError[0].innerHTML=" O preenchimento dos campos é obrigadorio"
