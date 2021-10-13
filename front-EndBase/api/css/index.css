@@ -1,0 +1,47 @@
+*{
+    background-color: rgb(209, 208, 206);
+    display: flexbox;
+    text-align: center;  
+}
+input{
+    padding: 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif center;
+    background-color: aliceblue;
+    padding-top: 15px;
+    margin: 15px 15px 15px 15px ;
+    border-radius: 15px;
+}
+button{
+    padding: 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif center;
+    background-color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 15px;
+    margin: 10px 15px 15px 15px ;
+    border-radius: 15px;
+    border:15px;
+}
+button:hover{
+    
+    background-color: rgb(77, 76, 78);
+}
+div.pokemon_info{
+    padding: 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif center;
+    text-align: center;
+    align-items: center;
+    color: rgb(43, 43, 43);
+    display: grid;
+}
+div.pokemon_picture{
+    padding: auto;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+div.card{
+    display: block;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
