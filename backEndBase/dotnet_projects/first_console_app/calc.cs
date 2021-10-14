@@ -47,11 +47,13 @@ namespace calculadora_dotnet
                 resultado =program.divisao(n1,n2);
                 Console.WriteLine("O resultado da minha divisao é {0}", resultado);
                 break;
-              default:
-                Console.WriteLine("opção invalida");
-              break;
+
               case 5 :
               validate = false;
+              break;
+              
+              default:
+              Console.WriteLine("opção invalida");
               break;
             }
             
