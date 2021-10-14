@@ -1,0 +1,16 @@
+/home/robot/Documentos/cea-fashionDev/AulasFashionDevs/fashionDevs/backEndBase/dotnet_projects/first_console_app/bin/Debug/net5.0/first_console_app
+/home/robot/Documentos/cea-fashionDev/AulasFashionDevs/fashionDevs/backEndBase/dotnet_projects/first_console_app/bin/Debug/net5.0/first_console_app.deps.json
+/home/robot/Documentos/cea-fashionDev/AulasFashionDevs/fashionDevs/backEndBase/dotnet_projects/first_console_app/bin/Debug/net5.0/first_console_app.runtimeconfig.json
+/home/robot/Documentos/cea-fashionDev/AulasFashionDevs/fashionDevs/backEndBase/dotnet_projects/first_console_app/bin/Debug/net5.0/first_console_app.runtimeconfig.dev.json
+/home/robot/Documentos/cea-fashionDev/AulasFashionDevs/fashionDevs/backEndBase/dotnet_projects/first_console_app/bin/Debug/net5.0/first_console_app.dll
+/home/robot/Documentos/cea-fashionDev/AulasFashionDevs/fashionDevs/backEndBase/dotnet_projects/first_console_app/bin/Debug/net5.0/ref/first_console_app.dll
+/home/robot/Documentos/cea-fashionDev/AulasFashionDevs/fashionDevs/backEndBase/dotnet_projects/first_console_app/bin/Debug/net5.0/first_console_app.pdb
+/home/robot/Documentos/cea-fashionDev/AulasFashionDevs/fashionDevs/backEndBase/dotnet_projects/first_console_app/obj/Debug/net5.0/first_console_app.csproj.AssemblyReference.cache
+/home/robot/Documentos/cea-fashionDev/AulasFashionDevs/fashionDevs/backEndBase/dotnet_projects/first_console_app/obj/Debug/net5.0/first_console_app.GeneratedMSBuildEditorConfig.editorconfig
+/home/robot/Documentos/cea-fashionDev/AulasFashionDevs/fashionDevs/backEndBase/dotnet_projects/first_console_app/obj/Debug/net5.0/first_console_app.AssemblyInfoInputs.cache
+/home/robot/Documentos/cea-fashionDev/AulasFashionDevs/fashionDevs/backEndBase/dotnet_projects/first_console_app/obj/Debug/net5.0/first_console_app.AssemblyInfo.cs
+/home/robot/Documentos/cea-fashionDev/AulasFashionDevs/fashionDevs/backEndBase/dotnet_projects/first_console_app/obj/Debug/net5.0/first_console_app.csproj.CoreCompileInputs.cache
+/home/robot/Documentos/cea-fashionDev/AulasFashionDevs/fashionDevs/backEndBase/dotnet_projects/first_console_app/obj/Debug/net5.0/first_console_app.dll
+/home/robot/Documentos/cea-fashionDev/AulasFashionDevs/fashionDevs/backEndBase/dotnet_projects/first_console_app/obj/Debug/net5.0/ref/first_console_app.dll
+/home/robot/Documentos/cea-fashionDev/AulasFashionDevs/fashionDevs/backEndBase/dotnet_projects/first_console_app/obj/Debug/net5.0/first_console_app.pdb
+/home/robot/Documentos/cea-fashionDev/AulasFashionDevs/fashionDevs/backEndBase/dotnet_projects/first_console_app/obj/Debug/net5.0/first_console_app.genruntimeconfig.cache
